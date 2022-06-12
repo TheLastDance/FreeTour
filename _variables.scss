@@ -1,0 +1,10 @@
+$primary: #e40808;
+$primaryHover: #7e2929f1;
+$logoWidth: 900px;
+$logoHeight: 460px;
+
+@mixin font($font, $size, $letter-spacing) {
+    font-family: $font;
+    font-size: $size;
+    letter-spacing: $letter-spacing;
+}

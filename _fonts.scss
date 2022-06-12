@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Charis-regular';
+    src: url('fonts/CharisSIL.eot');
+    src: url('fonts/CharisSIL.eot') format('embedded-opentype'),
+        url('fonts/CharisSIL.woff2') format('woff2'),
+        url('fonts/CharisSIL.woff') format('woff'),
+        url('fonts/CharisSIL.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Charis-bold';
+    src: url('fonts/CharisSIL-Bold.eot');
+    src: url('fonts/CharisSIL-Bold.eot') format('embedded-opentype'),
+        url('fonts/CharisSIL-Bold.woff2') format('woff2'),
+        url('fonts/CharisSIL-Bold.woff') format('woff'),
+        url('fonts/CharisSIL-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
